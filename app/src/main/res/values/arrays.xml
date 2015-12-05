@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="main">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="more_0">
+        <item>000</item>
+        <item>001</item>
+        <item>002</item>
+        <item>003</item>
+        <item>004</item>
+        <item>005</item>
+        <item>006</item>
+        <item>007</item>
+        <item>008</item>
+        <item>009</item>
+        <item>010</item>
+        <item>011</item>
+        <item>012</item>
+        <item>013</item>
+        <item>014</item>
+        <item>015</item>
+    </string-array>
+
+    <string-array name="more_1">
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+    </string-array>
+
+    <string-array name="more_2">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+        <item>206</item>
+        <item>207</item>
+        <item>208</item>
+        <item>209</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>213</item>
+        <item>214</item>
+        <item>215</item>
+    </string-array>
+
+    <string-array name="more_3">
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>306</item>
+        <item>307</item>
+        <item>308</item>
+        <item>309</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>315</item>
+    </string-array>
+
+    <string-array name="more_4">
+        <item>400</item>
+        <item>401</item>
+        <item>402</item>
+        <item>403</item>
+        <item>404</item>
+        <item>405</item>
+        <item>406</item>
+        <item>407</item>
+        <item>408</item>
+        <item>409</item>
+        <item>410</item>
+        <item>411</item>
+        <item>412</item>
+        <item>413</item>
+        <item>414</item>
+        <item>415</item>
+    </string-array>
+
+    <string-array name="more_5">
+        <item>500</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>505</item>
+        <item>506</item>
+        <item>507</item>
+        <item>508</item>
+        <item>509</item>
+        <item>510</item>
+        <item>511</item>
+        <item>512</item>
+        <item>513</item>
+        <item>514</item>
+        <item>515</item>
+    </string-array>
+
+    <string-array name="more_6">
+        <item>600</item>
+        <item>601</item>
+        <item>602</item>
+        <item>603</item>
+        <item>604</item>
+        <item>605</item>
+        <item>606</item>
+        <item>607</item>
+        <item>608</item>
+        <item>609</item>
+        <item>610</item>
+        <item>611</item>
+        <item>612</item>
+        <item>613</item>
+        <item>614</item>
+        <item>615</item>
+    </string-array>
+
+    <string-array name="more_7">
+        <item>700</item>
+        <item>701</item>
+        <item>702</item>
+        <item>703</item>
+        <item>704</item>
+        <item>705</item>
+        <item>706</item>
+        <item>707</item>
+        <item>708</item>
+        <item>709</item>
+        <item>710</item>
+        <item>711</item>
+        <item>712</item>
+        <item>713</item>
+        <item>714</item>
+        <item>715</item>
+    </string-array>
+
+    <string-array name="more_8">
+        <item>800</item>
+        <item>801</item>
+        <item>802</item>
+        <item>803</item>
+        <item>804</item>
+        <item>805</item>
+        <item>806</item>
+        <item>807</item>
+        <item>808</item>
+        <item>809</item>
+        <item>810</item>
+        <item>811</item>
+        <item>812</item>
+        <item>813</item>
+        <item>814</item>
+        <item>815</item>
+    </string-array>
+
+    <string-array name="more_9">
+        <item>900</item>
+        <item>901</item>
+        <item>902</item>
+        <item>903</item>
+        <item>904</item>
+        <item>905</item>
+        <item>906</item>
+        <item>907</item>
+        <item>908</item>
+        <item>909</item>
+        <item>910</item>
+        <item>911</item>
+        <item>912</item>
+        <item>913</item>
+        <item>914</item>
+        <item>915</item>
+    </string-array>
+
+    <string-array name="more_10">
+        <item>1000</item>
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+        <item>1004</item>
+        <item>1005</item>
+        <item>1006</item>
+        <item>1007</item>
+        <item>1008</item>
+        <item>1009</item>
+        <item>1010</item>
+        <item>1011</item>
+        <item>1012</item>
+        <item>1013</item>
+        <item>1014</item>
+        <item>1015</item>
+    </string-array>
+
+    <string-array name="more_11">
+        <item>1100</item>
+        <item>1101</item>
+        <item>1102</item>
+        <item>1103</item>
+        <item>1104</item>
+        <item>1105</item>
+        <item>1106</item>
+        <item>1107</item>
+        <item>1108</item>
+        <item>1109</item>
+        <item>1110</item>
+        <item>1111</item>
+        <item>1112</item>
+        <item>1113</item>
+        <item>1114</item>
+        <item>1115</item>
+    </string-array>
+
+    <string-array name="more_12">
+        <item>1200</item>
+        <item>1201</item>
+        <item>1202</item>
+        <item>1203</item>
+        <item>1204</item>
+        <item>1205</item>
+        <item>1206</item>
+        <item>1207</item>
+        <item>1208</item>
+        <item>1209</item>
+        <item>1210</item>
+        <item>1211</item>
+        <item>1212</item>
+        <item>1213</item>
+        <item>1214</item>
+        <item>1215</item>
+    </string-array>
+
+    <string-array name="more_13">
+        <item>1300</item>
+        <item>1301</item>
+        <item>1302</item>
+        <item>1303</item>
+        <item>1304</item>
+        <item>1305</item>
+        <item>1306</item>
+        <item>1307</item>
+        <item>1308</item>
+        <item>1309</item>
+        <item>1310</item>
+        <item>1311</item>
+        <item>1312</item>
+        <item>1313</item>
+        <item>1314</item>
+        <item>1315</item>
+    </string-array>
+
+    <string-array name="more_14">
+        <item>1400</item>
+        <item>1401</item>
+        <item>1402</item>
+        <item>1403</item>
+        <item>1404</item>
+        <item>1405</item>
+        <item>1406</item>
+        <item>1407</item>
+        <item>1408</item>
+        <item>1409</item>
+        <item>1410</item>
+        <item>1411</item>
+        <item>1412</item>
+        <item>1413</item>
+        <item>1414</item>
+        <item>115</item>
+    </string-array>
+
+    <string-array name="more_15">
+        <item>1500</item>
+        <item>1501</item>
+        <item>1502</item>
+        <item>1503</item>
+        <item>1504</item>
+        <item>1505</item>
+        <item>1506</item>
+        <item>1507</item>
+        <item>1508</item>
+        <item>1509</item>
+        <item>1510</item>
+        <item>1511</item>
+        <item>1512</item>
+        <item>1513</item>
+        <item>1514</item>
+        <item>1515</item>
+    </string-array>
+
+</resources>
